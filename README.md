@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Gui — Desenvolvedor, Empreendedor & Visionário da HezeTech 🚀
+# 👋 Olá, eu sou o Gui - Desenvolvedor, Empreendedor & Visionário da HezeTech 🚀
 
 Sou apaixonado por tecnologia, inovação e por transformar ideias em sistemas reais.  
-Atualmente sou fundador da **[HezeTech](https://hezetech.com)**, uma empresa que cria soluções digitais inteligentes e acessíveis — com foco em plataformas de gestão, automação e experiência do usuário.
+Atualmente sou fundador da **[HezeTech](https://hezetech.com)**, uma empresa que cria soluções digitais inteligentes e acessíveis com foco em plataformas de gestão, automação e experiência do usuário.
 
 ---
 
