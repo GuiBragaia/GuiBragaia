@@ -7,7 +7,7 @@ Atualmente sou fundador da **[HezeTech](https://hezetech.com.br)**, uma empresa 
 
 ### 💡 Sobre mim
 
-- 💻 Desenvolvedor full stack (JavaScript | Python | React | Docker | SQL)
+- 💻 Desenvolvedor full stack (TypeScript | Python | React | Docker | SQL | Next.js)
 - 🧠 Sempre em busca de aprender algo novo e melhorar cada linha de código
 - 🌍 Explorando o futuro da tecnologia e o impacto humano por trás dela
 - ⚙️ Gosto de sistemas bem pensados, arquitetura limpa e design funcional
