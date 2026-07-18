@@ -1,23 +1,23 @@
 # 👋 Olá, eu sou o Gui - Desenvolvedor, Empreendedor & Visionário. 🚀
 
-Sou apaixonado por tecnologia, inovação e por transformar ideias em sistemas reais.  
-Atualmente sou fundador da **[HezeTech](https://hezetech.com.br)**, uma empresa que cria soluções digitais inteligentes e acessíveis com foco em plataformas de gestão, automação e experiência do usuário.
+Sou apaixonado por tecnologia, inovação e por transformar ideias em sistemas reais.
 
 ---
 
-### 💡 Sobre mim
+## 💡 Sobre mim
 
-- 💻 Desenvolvedor full stack (TypeScript | Python | React | Docker | SQL | Next.js)
+- 💻 Desenvolvedor Full Stack (TypeScript | Python | React | Docker | SQL | Next.js)
 - 🧠 Sempre em busca de aprender algo novo e melhorar cada linha de código
 - 🌍 Explorando o futuro da tecnologia e o impacto humano por trás dela
 - ⚙️ Gosto de sistemas bem pensados, arquitetura limpa e design funcional
-- 💬 Fã de boas conversas sobre IA, software e o universo tech em geral  
+- 💬 Fã de boas conversas sobre IA, software e o universo tech em geral
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-#### 🧭 [HezeEDU](https://hezetech.com)
+### 🧭 [HezeEDU](https://hezetech.com)
+
 Plataforma de **gestão escolar** desenvolvida pela HezeTech, com foco em eficiência, simplicidade e integração entre escolas, professores e alunos.
 
 ---
@@ -33,7 +33,7 @@ Plataforma de **gestão escolar** desenvolvida pela HezeTech, com foco em efici�
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -42,13 +42,15 @@ Plataforma de **gestão escolar** desenvolvida pela HezeTech, com foco em efici�
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
-📧 **Email:** guilherme@hezetech.com  
-💼 **LinkedIn:** [linkedin.com/in/guilhermebragaia](https://www.linkedin.com/in/guilherme-bragaia-878b02182)  
-🌍 **Site:** [hezetech.com.br](https://hezetech.com.br)
+📧 **Email:** guilherme@hezetech.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-bragaia-878b02182
+
+🌍 **Site:** https://hezetech.com.br
 
 ---
 
-> *“Código é poesia quando resolve um problema com elegância.”*  
-> — Gui Bragaia 🖤  
+> *"Código é poesia quando resolve um problema com elegância."*  
+> — Gui Bragaia 🖤
