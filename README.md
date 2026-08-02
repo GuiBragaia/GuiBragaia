@@ -44,9 +44,9 @@ Plataforma de **gestão escolar** desenvolvida pela HezeTech, com foco em efici�
 
 ## 🌐 Conecte-se comigo
 
-📧 **Email:** guilherme@hezetech.com
+📧 **Email:** guib_bra@outlook.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-bragaia-878b02182
+💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-bragaia
 
 🌍 **Site:** https://hezetech.com.br
 
