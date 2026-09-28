@@ -16,9 +16,10 @@ Sou apaixonado por tecnologia, inovação e por transformar ideias em sistemas r
 
 ## 🚀 Projetos em destaque
 
-### 🧭 [HezeEDU](https://hezetech.com)
 
-Plataforma de **gestão escolar** desenvolvida pela HezeTech, com foco em eficiência, simplicidade e integração entre escolas, professores e alunos.
+### 🧭 [HearIt]([https://h](https://hearitgame.vercel.app/)
+### 🧭 [HezeEDU](https://hezetech.com.br)
+
 
 ---
 
