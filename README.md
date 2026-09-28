@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, inovação e por transformar ideias em sistemas r
 ## 🚀 Projetos em destaque
 
 
-### 🧭 [HearIt]([https://h](https://hearitgame.vercel.app/)
+### 🧭 [HearIt](https://h](https://hearitgame.vercel.app/)
 ### 🧭 [HezeEDU](https://hezetech.com.br)
 
 
